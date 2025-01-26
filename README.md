@@ -61,3 +61,7 @@ Key Points:
 Treat API keys confidentially.
 Refer to OpenWeatherMap's documentation for details on available parameters and response formats.
 Analyze retrieved weather data using libraries like pandas and matplotlib for visualizations or statistical calculations.
+
+##OUTPUT:
+
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/b5d986fe-42e2-4ad2-bbb5-6b767e96a4a7" />
